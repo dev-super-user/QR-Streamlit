@@ -1,10 +1,11 @@
-import cv2
 import numpy as np
 import streamlit as st
 from pyzbar import pyzbar
 from PIL import Image
 from datetime import datetime, timedelta
 import pandas as pd
+import cv2
+
 
 # Definir los productos con campos adicionales
 def create_product_dictionary():
