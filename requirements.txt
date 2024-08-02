@@ -1,7 +1,6 @@
-pyzbar
 streamlit
+opencv-python-headless
+pyzbar
 numpy
-pillow
 pandas
-opencv-python==4.10.0.84
-
+pillow
